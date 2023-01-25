@@ -1,1 +1,1 @@
-[live site] (accedie-xcd.github.io/menu)
+[live site] (https://accedie-xcd.github.io/menu/)
